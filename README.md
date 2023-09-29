@@ -1,4 +1,4 @@
-Hello, I’m a Software engineer who looking for the most relevant solutions in terms of project goals and resources. Continuously actualizing my knowledge and advising the fresh approaches and best practices. I always strive to build the robust processes and pay significant attention to make the project easily supportable.
+Currently working as a Fullstack-Software Engineer at one of the largest German institutes, developing software for convenient calculations of complex models of molecules and their behavior. Strong stress tolerance and problem-solving skills, with a proactive attitude towards taking responsibility for implementation, deployment, and support. Committed to creating a positive and happy work environment.
 
 How to reach me tg=artbuld
 
